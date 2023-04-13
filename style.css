@@ -1,32 +1,19 @@
 body{
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-  	background-size: 400% 400%;
-  	animation: gradient 15s ease infinite;
-  	height: 100vh;
+    background-color: #B2A4FF;
 }
-@keyframes gradient {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
-}
-hr{
-  border-style:none;
-  border-top: dotted;
-  border-color:white;
-  border-width:3px;
-}
-h1{
-  color:#8D9EFF;
-}
-h2{
-  color:#8D9EFF;
-}
-h3{
-  color:#8D9EFF;
-}
+ 
+  hr{
+    border-style:none;
+    border-top: dotted;
+    border-color:white;
+    border-width:3px;
+  }
+  h1{
+    color:white;
+  }
+  h2{
+    color:white;
+  }
+  h3{
+    color:white;
+  }
